@@ -1,0 +1,6 @@
+framework module SolidPod {
+  umbrella header "SolidPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SolidPod_Tests {
+  umbrella header "Pods-SolidPod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

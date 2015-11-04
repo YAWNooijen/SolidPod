@@ -22,7 +22,7 @@ pod "SolidPod"
 
 ## Author
 
-Youri Nooijen, youri@blueconic.com
+Youri Nooijen, yourinooijen@live.nl
 
 ## License
 

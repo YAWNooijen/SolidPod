@@ -1,0 +1,14 @@
+PODS:
+  - SolidPod (0.1.0)
+
+DEPENDENCIES:
+  - SolidPod (from `../`)
+
+EXTERNAL SOURCES:
+  SolidPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SolidPod: 4064d14a69f8342a66dfb36a3464f562fbc7dd33
+
+COCOAPODS: 0.39.0
