@@ -7,8 +7,12 @@
 //
 
 import UIKit
+import SolidPod
 
 class ViewController: UIViewController {
+
+    let solidButton = SolidButton(frame: CGRectMake(10, 20, 200, 30))
+
 
     override func viewDidLoad() {
         super.viewDidLoad()

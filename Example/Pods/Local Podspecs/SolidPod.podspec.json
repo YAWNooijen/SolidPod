@@ -1,25 +1,25 @@
 {
   "name": "SolidPod",
   "version": "0.1.0",
-  "summary": "A short description of SolidPod.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/SolidPod",
-  "license": "MIT",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://github.com/YAWNooijen/SolidPod",
   "authors": {
-    "Youri Nooijen": "youri@blueconic.com"
+    "YAW Nooijen": "yourinooijen@live.nl"
   },
-  "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/SolidPod.git",
-    "tag": "0.1.0"
-  },
+  "summary": "Solid Classes.",
   "platforms": {
     "ios": "8.0"
   },
-  "requires_arc": true,
+  "source": {
+    "http": "http://www.blueconic.test/tempsdk/bcc1.zip",
+    "flatten": true
+  },
   "source_files": "Pod/Classes/**/*",
-  "resource_bundles": {
-    "SolidPod": [
-      "Pod/Assets/*.png"
-    ]
-  }
+  "frameworks": [
+    "SystemConfiguration",
+    "UIKit",
+    "Foundation"
+  ]
 }

@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## SolidPod
 
-Copyright (c) 2015 Youri Nooijen <youri@blueconic.com>
+Copyright (c) 2015 Youri Nooijen <yourinooijen@live.nl>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
